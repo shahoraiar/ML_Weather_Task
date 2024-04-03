@@ -1,0 +1,8 @@
+# Please replace 0.0 below with your answer to Exercise 01.
+Relative Humidity Average: 87.90138674884437
+Temperature Average: 2.7347202295552364
+Wind Speed Average: 3.9195121951219507
+Precipitation Amount Average: nan
+Pressure Average: 1012.6341463414634
+
+# Please do not write anything else into this file.
